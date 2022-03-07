@@ -315,9 +315,9 @@ a:focus {
 
 .hero .hero-btn .btn {
     margin-top: 35px;
-    color: #EF233C;
-    background: #ffffff;
-    box-shadow: inset 0 0 0 50px #ffffff;
+    color: #ffffff;
+    background: #283177;
+    box-shadow: inset 0 0 0 50px .hero .hero-btn .btn;
 }
 
 .hero .hero-btn .btn:hover {
